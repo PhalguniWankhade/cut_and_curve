@@ -117,6 +117,11 @@ p{
     color: #FFFF ;
 }
 
+.contact-icons{
+    padding-bottom: 1rem;
+    margin: 0 1rem;
+}
+
 /* Mobile Design */
 @media (max-width: 1028px) {
     #title{
